@@ -1,4 +1,4 @@
-# Big Data Analytics and Business Intelligence: Cardiological Examinations Graph
+# Cardiological Examinations Graph
 This repository contains the final project of the **Big Data Analytics and Business Intelligence** course at *University of Naples Federico II*.
 
 A dataset containing medical information of different patients is provided. Patient's information includes its examinations, with the relative anamnesis and diagnosis, written in Italian.
