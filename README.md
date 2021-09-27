@@ -1,5 +1,5 @@
 # Cardiological Examinations Graph
-This repository contains the final project of the **Big Data Analytics and Business Intelligence** course (AY 20/21) at *University of Naples Federico II*.
+This repository contains the final project of the **Big Data Analytics and Business Intelligence** course (AY 20/21) at the *University of Naples Federico II*.
 
 ## Assignment
 A dataset containing medical information of different patients is provided. Patient's information includes its examinations, with the relative anamnesis and diagnosis, written in Italian.
